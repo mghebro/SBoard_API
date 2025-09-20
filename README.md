@@ -1,4 +1,4 @@
-﻿# ORA - ASP.NET Core Web API
+﻿# SBoard - ASP.NET Core Web API
 
 ## 1. პროექტის მიმოხილვა
 
