@@ -1,10 +1,10 @@
-﻿using ORA_API.Modules.Auth.Services.Token;
-using ORA_API.Modules.Auth.DTOs.Requests;
-using ORA_API.Modules.Auth.Services.Auth;
-using ORA_API.Modules.Auth.Validations;
+﻿using SBoard.Modules.Auth.Services.Token;
+using SBoard.Modules.Auth.DTOs.Requests;
+using SBoard.Modules.Auth.Services.Auth;
+using SBoard.Modules.Auth.Validations;
 using FluentValidation;
 
-namespace ORA_API.Modules.Auth;
+namespace SBoard.Modules.Auth;
 
 // TODO: add jwt and other auth services
 public static class AuthExtensions

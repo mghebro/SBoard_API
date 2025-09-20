@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Common.Entities;
+﻿namespace SBoard.Common.Entities;
 
 // ეს პარამეტრები მაინც ყველგან საჭიროა (სტანდარტია) ამიტომ გლობალურად იქმნება. 
 public class BaseEntity

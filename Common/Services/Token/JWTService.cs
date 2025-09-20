@@ -1,4 +1,4 @@
-namespace ORA_API.Common.Services.Token;
+namespace SBoard.Common.Services.Token;
 
 public class JWTService : IJWTService
 {

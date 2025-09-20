@@ -1,4 +1,4 @@
-﻿namespace RBS.Core.Middlewares;
+﻿namespace SBoard.Core.Middlewares;
 
 public class Info
 {

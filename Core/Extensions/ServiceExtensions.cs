@@ -1,10 +1,10 @@
 ﻿using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
-using ORA_API.Modules.Auth;
+using SBoard.Modules.Auth;
 using FluentValidation;
-using ORA_API.Data;
+using SBoard.Data;
 
-namespace ORA_API.Core.Extensions;
+namespace SBoard.Core.Extensions;
 
 public static class ServiceExtensions
 {

@@ -1,4 +1,4 @@
-using ORA_API.Core.Extensions;
+using SBoard.Core.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 

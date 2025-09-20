@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Modules.Auth.DTOs.Responses;
+﻿namespace SBoard.Modules.Auth.DTOs.Responses;
 
 public class LoginResponse
 {

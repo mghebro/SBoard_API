@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ORA_API.Modules.Auth.Controllers
+namespace SBoard.Modules.Auth.Controllers
 {
     [Route("api/auth")]
     [ApiController]

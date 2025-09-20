@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Common.DTOs.Requests;
+﻿namespace SBoard.Common.DTOs.Requests;
 
 public class Info
 {

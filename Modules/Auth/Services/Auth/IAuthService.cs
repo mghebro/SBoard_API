@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Modules.Auth.Services.Auth;
+﻿namespace SBoard.Modules.Auth.Services.Auth;
 
 public interface IAuthService
 {

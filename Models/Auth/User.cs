@@ -1,6 +1,6 @@
-﻿using ORA_API.Common.Entities;
+﻿using SBoard.Common.Entities;
 
-namespace ORA_API.Models.Auth;
+namespace SBoard.Models.Auth;
 
 public class User : BaseEntity
 {

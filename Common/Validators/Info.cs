@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Common.Validators;
+﻿namespace SBoard.Common.Validators;
 
 public class Info
 {

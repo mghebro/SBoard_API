@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Enums.Auth;
+﻿namespace SBoard.Enums.Auth;
 
 public enum ACCOUNT_STATUS
 {

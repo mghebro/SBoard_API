@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Common.Helpers;
+﻿namespace SBoard.Common.Helpers;
 
 public class Info
 {

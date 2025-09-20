@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Core.Constants;
+﻿namespace SBoard.Core.Constants;
 
 public class Info
 {

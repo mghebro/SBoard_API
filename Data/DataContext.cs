@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ORA_API.Models.Auth;
+using SBoard.Models.Auth;
 
-namespace ORA_API.Data;
+namespace SBoard.Data;
 
 public class DataContext : DbContext
 {

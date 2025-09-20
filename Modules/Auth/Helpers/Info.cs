@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Modules.Auth.Helpers;
+﻿namespace SBoard.Modules.Auth.Helpers;
 
 public class Info
 {

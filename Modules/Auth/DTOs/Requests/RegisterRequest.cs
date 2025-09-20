@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Modules.Auth.DTOs.Requests;
+﻿namespace SBoard.Modules.Auth.DTOs.Requests;
 
 public class RegisterRequest
 {

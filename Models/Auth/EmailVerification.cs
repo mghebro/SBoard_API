@@ -1,6 +1,6 @@
-﻿using ORA_API.Common.Entities;
+﻿using SBoard.Common.Entities;
 
-namespace ORA_API.Models.Auth;
+namespace SBoard.Models.Auth;
 
 // არსებობს მეორე პრაცტიკა სადაც verification-კლასი გაქსვ და enum-ებით ანსხვავებ მაგრამ ამ ჯერზე ეს იყოს.
 // უმჯობესი იქნება ასეთი სტრუქტურით თუ გაკეთდება ვერიფიკაციები - თუ არ გინდათ მაშინ დატოვეთ ძველი მაგრამ ძველი ცუდი პრაკტიკაითაა დაწერილი

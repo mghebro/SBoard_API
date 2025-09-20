@@ -1,4 +1,4 @@
-﻿namespace ORA_API.Core.Extensions;
+﻿namespace SBoard.Core.Extensions;
 
 public static class PipelineExtensions
 {

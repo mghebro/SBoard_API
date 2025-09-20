@@ -1,7 +1,7 @@
-﻿using ORA_API.Modules.Auth.DTOs.Requests;
+﻿using SBoard.Modules.Auth.DTOs.Requests;
 using FluentValidation;
 
-namespace ORA_API.Modules.Auth.Validations;
+namespace SBoard.Modules.Auth.Validations;
 
 public class LoginValidator : AbstractValidator<LoginRequest>
 {
